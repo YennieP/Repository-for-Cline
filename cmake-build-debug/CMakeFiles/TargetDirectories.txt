@@ -1,0 +1,3 @@
+D:/Users/Yennie/pyx/STM32/helloworld/cmake-build-debug/CMakeFiles/helloworld.elf.dir
+D:/Users/Yennie/pyx/STM32/helloworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Yennie/pyx/STM32/helloworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
